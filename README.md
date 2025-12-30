@@ -2,6 +2,7 @@ Pinterest Analytics Parser
 
 **Automated Pinterest performance tracking with Google Sheets synchronization**
 
+<img width="1260" height="682" alt="Screenshot_2" src="https://github.com/user-attachments/assets/078638bb-7ee4-4ec0-b4f6-8346bb65974a" />
 
 **Overview**
 
