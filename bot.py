@@ -1,6 +1,7 @@
 import os
 import requests
 import gspread
+import schedule
 import datetime as dt
 from google.oauth2.service_account import Credentials
 from dotenv import load_dotenv
@@ -158,4 +159,5 @@ if __name__ == "__main__":
     
     while True:
         schedule.run_pending()
+
         time.sleep(60)
