@@ -23,7 +23,7 @@ The project is designed for:
 - **Content type detection** (**Video / Post**)  
 - **Rate-limit safe requests**  
 - **Fully automated scheduling** (every 3 hours)  
-- **No hardcoded secrets** — everything stored in `.env`
+- **No hardcoded secrets** - everything stored in `.env`
 
 
 **Data Collected**
